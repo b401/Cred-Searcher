@@ -1,0 +1,4 @@
+# Cred Searcher
+
+Requirements: 
+- requests
